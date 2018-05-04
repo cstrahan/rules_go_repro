@@ -1,0 +1,1 @@
+extern "C" void cc_main();
